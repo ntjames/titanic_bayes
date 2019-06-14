@@ -1,0 +1,12 @@
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+*.Rproj
+*.txt
+*.desktop
+
+/titanic_bayes_miss_cache
+/titanic_bayes_miss_files
